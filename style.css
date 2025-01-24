@@ -1,0 +1,157 @@
+/* .logo {
+    /*background-color: blue;*/
+
+}
+
+.logo img {
+    width: 150px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "segoe UI8;
+
+}
+
+.right ul {
+    display: flex;
+    gap: 34px;
+}
+
+.right ul li {
+    list-style: none;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    cursor: pointer;
+
+
+}
+
+.right ul li span {
+    padding: 0 5px;
+}
+
+.first {
+    display: flex;
+    /* background-color: chartreuse;*/
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 23px;
+    margin: 70px;
+    font-family: sans-serif;
+}
+
+.first span {
+    font-size: 45px;
+
+}
+
+section span img {
+    width: 103px;
+    margin: 0px 32px
+}
+
+.first P {
+    font-size: 23px;
+    width: 60vw;
+    text-align: center;
+
+}
+
+.btn {
+    background: #00b6d1;
+    padding: 18px 20px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 800;
+    margin: 12px 0;
+    cursor: pointer;
+}
+
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.green {
+    background-color: #5cb85c;
+
+}
+
+
+
+.flex {
+    display: flex;
+}
+
+.small {
+    font-size: 12px;
+}
+
+.second {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(93, 222, 192);*/
+    max-width: 80vw;
+    margin: auto;
+
+}
+
+.item {
+    padding: 29px;
+    background: #f9f9f9;
+    border-radius: 12p font-size: 20px;
+    font_family: 'segoe Ut', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+
+}
+
+.item-lan {
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 36px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+}
+
+.download :nth-child(2) {
+    font-size: 25px;
+}
+
+.download :nth-child(1) {
+    height: 70px;
+    padding: 0px 12px;
+    /* margin: 13px; */
+}
+
+
+
+.download {
+    display: flex;
+    /* justify-content: center; */
+    font-family: serif;
+    align-items: center;
+    gap: 10px;
+}
+
+@media screen and (max-width: 1005px) {
+    .grid {
+        background-color: rgb(232, 183, 4);
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+} */
